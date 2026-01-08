@@ -8,7 +8,7 @@ I’ve worked on:
 - **Cloud-scale observability and distributed pipelines**
 
 I enjoy connecting intuitive UIs with powerful backend systems and making complex systems feel simple and reliable.
-
+<!--
 ---
 
 ## 🛠 What I Work With
@@ -17,7 +17,7 @@ I enjoy connecting intuitive UIs with powerful backend systems and making comple
 - **Distributed Systems:** Kafka, NATS, Redis, gRPC, WebSocket, CRDTs  
 - **Cloud & Infra:** AWS (Lambda, ECS, S3, DynamoDB, Kinesis), Docker, Kubernetes, Terraform, IaC  
 - **Observability:** OpenTelemetry, Prometheus, Grafana, CloudWatch  
-
+-->
 ---
 
 ## 📂 About This GitHub
