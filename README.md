@@ -30,7 +30,8 @@ This GitHub account is mainly for **personal projects, experiments, and learning
 Most of my production work lives in **private or company repositories**, so what you see here may be incomplete, experimental, or intentionally minimal.
 
 ---
-
+<!--
 ## 📫 Connect
 - LinkedIn: https://www.linkedin.com/in/edward-b-15a5043a0/
 - Email: edwardbai033191@gmail.com
+-->
